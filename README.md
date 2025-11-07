@@ -1,6 +1,6 @@
 💻 À propos de moi
 
-Salut 👋, je suis [Ton Nom], étudiant à IAGE passionné par les solutions informatiques et le développement web.
+Salut 👋, je suis Muhindo vuhese bienvenu, étudiant à IAGE passionné par les solutions informatiques et le développement web.
 Je code principalement en PHP et j’utilise VS Code comme environnement de travail préféré.
 
 🧠 Compétences techniques
@@ -11,13 +11,9 @@ Je code principalement en PHP et j’utilise VS Code comme environnement de trav
 
 🗄️ Bases de données : MySQL
 
-🌐 Frameworks / CMS : Laravel (si tu l’utilises), WordPress
-
 🚀 Ce que je fais actuellement
 
 🎓 Étudiant en Solutions Informatiques à IAGE
-
-🌱 En train d’apprendre : [ajoute ici les technologies que tu apprends]
 
 💬 J’aime discuter de développement web, d’algorithmes et de bonnes pratiques de code
 
@@ -31,16 +27,11 @@ Quelques projets récents :
 
 📰 Blog personnel utilisant HTML/CSS/Bootstrap
 
-(Tu peux ajouter des liens vers les dépôts de ces projets ici)
-
 📫 Me contacter
 
-✉️ Email : [ton.email@example.com
-]
+✉️ Email : bienvenumuhindovuhese@gmail.com
 
-🔗 GitHub : [github.com/tonpseudo]
-
-💼 LinkedIn : [linkedin.com/in/tonprofil] (si tu en as un)
+🔗 GitHub : github.com/bienvenuvuhese
 
 ⚙️ Statistiques GitHub
 
